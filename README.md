@@ -7,6 +7,7 @@ This repository collects a selection of projects developed during my academic an
 ### Phishing URL Detection
 **Course:** Artificial Intelligence for Security  
 Developed a machine learning pipeline for phishing URL detection using supervised, unsupervised, and anomaly detection techniques.
+
 [View Jupyter Notebook](./AI_for_Security_Project.ipynb)
 
 ---
@@ -23,13 +24,15 @@ Designed and transformed data models across relational, graph (Neo4j), and docum
 ### Epidemic Risk Modelling
 **Course:** Methods and Data Analytics for Risk Assessment  
 Developed a probabilistic model using Bayesian networks to simulate epidemic scenarios and evaluate policy impact on infection and mortality.
+
 [View Project](./Methods_Data_Analytics.pdf)
 
 ---
 
-### Stuxnet Case Study — Cyber-Physical Risk Analysis
+### Stuxnet Case Study
 **Course:** Technology Risk Governance  
 Analyzed the Stuxnet attack combining system-level analysis, Fault Tree modeling, and organizational risk assessment.
+
 [View Project](./Stuxnet_Case_Study.pdf)
 
 ---
@@ -37,6 +40,7 @@ Analyzed the Stuxnet attack combining system-level analysis, Fault Tree modeling
 ### MGM Resorts Cyber Security Toolkit
 **Course:** Strategy and Governance for Cyber Risk  
 Analyzed cyber risk governance at board level and developed strategic recommendations to enhance organizational resilience.
+
 [View Project](./MGM_Cyber_Governance.pdf)
 
 ---
@@ -57,4 +61,13 @@ Analyzed cyber risk governance at board level and developed strategic recommenda
 ### Estonia Cyber Conflict
 **Course:** State Competition and Conflict in the Cyberspace  
 Analyzed state-level cyber conflict dynamics, including deterrence strategies and national resilience frameworks.  
+
 [View Project](./Estonia_Cyber_Conflict.pdf)
+
+---
+
+### Accounting Workflow Automation
+**Context:** Internship Project  
+Developed a Python tool to automate browser-based workflows and streamline accounting processes through data extraction.  
+
+[View Repository](https://github.com/dario-santo/accounting-workflow-automation)
